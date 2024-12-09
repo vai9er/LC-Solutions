@@ -1,4 +1,5 @@
 These were my correct submissions for each of the Leetcode daily problems starting from Dec 1st.
 
-![image](https://github.com/user-attachments/assets/7cb374bb-4bae-4c5f-a586-1efcb2f1783a)
+![image](https://github.com/user-attachments/assets/4898d0dd-c7d1-4023-a0a4-9ff3a850526d)
+
 
