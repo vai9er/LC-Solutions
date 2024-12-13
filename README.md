@@ -1,4 +1,4 @@
-<span style="color: blue;">Leetcode Solutions</span>
+
 ```                                                                                                                                                                                  
  _               _   _____           _         _____       _       _   _                 
 | |             | | /  __ \         | |       /  ___|     | |     | | (_)                
