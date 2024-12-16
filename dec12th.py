@@ -5,4 +5,3 @@ class Solution:
             gifts[0] = floor(gifts[0] ** 0.5)
             gifts.sort(reverse=True)
         return sum(gifts)
-            
