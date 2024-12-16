@@ -11,7 +11,7 @@
 
 These were my correct submissions for each of the Leetcode daily problems starting from Dec 1st. Inspired by my friend Alejandro Iglesias Llobet!
 
-![image](![image](https://github.com/user-attachments/assets/d41e6ea7-bf92-4d0c-805c-3ee55d7159ac)
+![image]((https://github.com/user-attachments/assets/d41e6ea7-bf92-4d0c-805c-3ee55d7159ac)
 
 
 
